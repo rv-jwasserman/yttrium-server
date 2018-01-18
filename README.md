@@ -19,6 +19,7 @@ npm install yttrium-server --save
 ## How to Use
 Have a look at the [example](https://github.com/YttriumJS/yttrium-server/blob/master/example/) to see how easy it is get a fully functional Yttrium server up. Below is a brief outline of some of the core functionality.
 
+
 ### Getting Started
 
 The most basic Yttrium server: 
